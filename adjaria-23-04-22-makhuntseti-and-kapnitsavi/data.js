@@ -386,6 +386,12 @@ var APP_DATA = {
           "pitch": 0.13045031360421433,
           "rotation": 0,
           "target": "7-kapnistavi-waterfall-1"
+        },
+        {
+          "yaw": -1.591628898715005,
+          "pitch": -0.33045031360421433,
+          "rotation": 0,
+          "target": "9-kapnistavi-waterfall---watermill"
         }
       ],
       "infoHotspots": []
@@ -473,7 +479,7 @@ var APP_DATA = {
           "yaw": -3.048803946951745,
           "pitch": 0.09958484984708704,
           "rotation": 0,
-          "target": "12-kapnistavi-tree-house"
+          "target": "11-kapnistavi-village-2"
         }
       ],
       "infoHotspots": []
