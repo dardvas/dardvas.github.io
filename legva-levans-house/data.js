@@ -208,7 +208,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Leghva - Levani's house",
+  "name": "Legva - Levani's house",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
